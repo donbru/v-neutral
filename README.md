@@ -16,4 +16,21 @@ Exploring
 
 **AngularJS** - [http://angularjs.org/](http://angularjs.org/)
 
-(Best read in [MarkdownPad](http://markdownpad.com/).)
+## Requirements
+1. Install node.js
+
+## Installation 
+
+1. Clone git project
+1. ```cd 
+v-neutral
+```
+1. ```npm
+install
+``` (node runs *package.json*, creates folder *node_modules*, and install module dependencies.)
+1. ```node
+app.js
+``` (runs node application *app.js*)
+1. Browse to "http://localhost:3000/"
+
+(Best read with [MarkdownPad](http://markdownpad.com/).)
