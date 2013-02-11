@@ -28,3 +28,6 @@ Exploring
 1. Browse to "http://localhost:3000/"
 
 (Best read with [MarkdownPad](http://markdownpad.com/).)
+
+## Collaborators
+Don Bruey  (DonBru)
